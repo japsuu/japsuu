@@ -12,10 +12,6 @@ I've been programming nearly every day since 2016.
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/68ggIeBw7jQAAAAd/catjam-cat.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
