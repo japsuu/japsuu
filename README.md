@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is `Jasper` and I'm a self-taught C# developer from Finland.</h1>
+<h1 align="center">Hi 👋! My name is Jasper and I'm a self-taught C# developer from Finland.</h1>
 
 ###
 
